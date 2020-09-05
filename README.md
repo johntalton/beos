@@ -1,5 +1,8 @@
 # BeOS
 An index page for collection of (archived) BeOS applications:
+
+You can find the last developer profile at [Archive:BeBits](https://web.archive.org/web/20111210160253/http://bebits.com/devprofile/297)
+
 - [ ] Refraction<sup>*</sup>
 - [ ] Inferno
 - [x] [BTetris](https://github.com/johntalton/BTetris)
@@ -20,3 +23,6 @@ An index page for collection of (archived) BeOS applications:
 - [ ] Titles
 - [ ] YLanguageClass
 - [ ] YTabVie
+
+
+![](https://web.archive.org/web/20060225193701im_/http://www.bebits.com/get/web/297/ynop-small.gif)
